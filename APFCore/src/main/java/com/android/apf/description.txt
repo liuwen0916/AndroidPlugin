@@ -1,0 +1,3 @@
+框架介绍：
+APF(Android plugin framework)用来实现Android平台的插件化业务
+框架规划四个进程(host、com.android.apf.remote1、com.android.apf.remote2、com.android.apf.remote3)
